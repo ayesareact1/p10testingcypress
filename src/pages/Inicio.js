@@ -7,7 +7,7 @@ export default function Inicio() {
 
   return (
     <div className="container" ref={useFadeLoad()}>
-        <h1>Bienvenidos a nuestra aplicación</h1>
+        <h1>Bienvenid@s a nuestra aplicación</h1>
         <Link to="/soporte">
             <button>Ayuda</button>
         </Link>
